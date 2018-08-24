@@ -1,0 +1,17 @@
+
+.container{
+	font-size: 18px;
+	background-color: lightblue;
+}
+.container div{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+h1{
+	text-align: center;
+}
+
+.col-sm-4 img{
+	width: 105%;
+		
+}

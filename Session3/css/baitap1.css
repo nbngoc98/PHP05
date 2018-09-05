@@ -1,0 +1,60 @@
+*{
+	/*Định nghĩa tất cả*/
+	padding: 0;
+	margin: 0;
+}
+#header{
+	width: 100%;
+	background-color: #00e600;
+	height: 50px;
+	text-align: center;
+	padding-top: 20px;
+}
+.content1{
+	border: 4px solid white;
+	width: 705px;
+	margin-left: 340px; 
+	text-align: center;
+}
+.main{
+	width: 400px;
+	height: 250px;
+	background-color: red;
+	float: left;
+}
+.sidebar{
+	width: 300px;
+	height: 250px;
+	background-color: #ffff00;
+	float:left;
+	margin-left: 5px;
+}
+.content2{
+	border: 4px solid white;
+	width: 705px;
+    height: 500px;
+	margin-left: 340px; 
+	text-align: center;
+}
+.twin1{
+	width: 350px;
+	height: 250px;
+	background-color: red;
+	float: left;	
+	margin-top: 5px; 
+}
+.twin2{
+	width: 350px;
+	height: 250px;
+	background-color: #ffff00;
+	float:left;
+	margin-top: 5px; 
+	margin-left: 5px;
+}
+#footer{
+	background-color: #4d4dff;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	padding-top: 20px;
+}

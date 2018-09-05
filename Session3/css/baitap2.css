@@ -1,0 +1,36 @@
+.header{
+    width: 1006px;
+    height: 50px;
+    background-color: #b30077;
+}
+.content1{
+    width: 300px;
+    height: 500px;
+    background-color: #b30077;
+    float: left;
+    border: 2px solid white;
+}
+.content2{
+    width: 400px;
+    height: 500px;
+    background-color: #b30077;
+    float:left;
+    border: 2px solid white;
+}
+.content3{
+   width: 298px;
+   height: 500px;
+   background-color: #b30077;
+   float: left;
+   border: 2px solid white;
+}
+.footer{
+    width: 1006px;
+    height: 50px;
+    background-color: #b30077;
+    border: 2px solid white;
+    margin-top: 503px;
+}
+p{
+	text-align: center;
+}

@@ -3,7 +3,7 @@
   padding: 0;
 }
 header{
-    width: 100%;
+    width: 99%;
     height: 50px;
     background-color: #b30077;
      line-height: 50px;
@@ -19,7 +19,7 @@ content{
     border: 2px solid white;
 }
 .content2{
-    width: 60%;
+    width: 59%;
     height: 500px;
     background-color: #b30077;
     float:left;
@@ -33,7 +33,7 @@ content{
    border: 2px solid white;
 }
 footer{
-    width: 100%;
+    width: 99%;
     height: 50px;
     background-color: #b30077;
     border: 2px solid white;

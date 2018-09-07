@@ -9,7 +9,6 @@ p {
 }
 @media screen and (max-width: 1440px){
 	.header{
-		margin-top: 5px;
 		margin-bottom: 5px;
 		height: 100px;
 		background-color: #e0e0d1;
@@ -133,7 +132,6 @@ p {
 }
 @media screen and (max-width: 768px){
 	.header{
-		margin-top: 5px;
 		margin-bottom: 5px;
 		height: 100px;
 		background-color: #e0e0d1;
@@ -264,7 +262,6 @@ p {
 }
 @media screen and (max-width: 320px){
 	.header{
-		margin-top: 2px;
 		margin-bottom: 2px;
 		height: 100px;
 		background-color: #e0e0d1;

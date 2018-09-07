@@ -6,7 +6,7 @@ p {
 		font-weight: bold;
 }
 @media screen and (max-width: 1440px){
-	header{
+	.header{
 		margin-top: 5px;
 		margin-bottom: 5px;
 		height: 100px;
@@ -121,7 +121,7 @@ p {
 		text-align: center;
 		margin-top: 10px;
 	}
-	footer{
+	.footer{
 		clear: left;
 		margin-bottom: 5px;
 		height: 70px;
@@ -130,7 +130,7 @@ p {
 	}
 }
 @media screen and (max-width: 768px){
-	header{
+	.header{
 		margin-top: 5px;
 		margin-bottom: 5px;
 		height: 100px;
@@ -187,16 +187,17 @@ p {
 		float: left;
 		line-height: 50px;
 		margin: 1%;
-		margin-top: 0%;
 		background-color: #99ff33;
 		text-align: center;
 	}
 	.ad{
-		margin-top: 50px;
-		height: 120px;
-		width: 25%;
+		margin-bottom: 31px;
+		margin-top: 40px;
+		margin-right: 5px;
+		height: 100px;
+		width: 27%;
 		float: right;
-		line-height: 120px;
+		line-height: 110px;
 		text-align: center;
 		position: relative;
 		z-index: 2;
@@ -248,7 +249,7 @@ p {
 		background-color: #99ff33;
 		text-align: center;
 	}
-	footer{
+	.footer{
 		clear: left;
 		margin-bottom: 5px;
 		height: 70px;
@@ -260,7 +261,7 @@ p {
 	}
 }
 @media screen and (max-width: 320px){
-	header{
+	.header{
 		margin-top: 2px;
 		margin-bottom: 2px;
 		height: 100px;
@@ -379,7 +380,7 @@ p {
 		background-color: #99ff33;
 		text-align: center;
 	}
-	footer{
+	.footer{
 		clear: left;
 		position: relative;
 		margin-bottom: 5px;

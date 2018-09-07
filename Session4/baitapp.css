@@ -4,6 +4,8 @@
 }
 p {
 		font-weight: bold;
+		padding-left: 10px;
+		padding-top: 8px;
 }
 @media screen and (max-width: 1440px){
 	.header{

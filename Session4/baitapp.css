@@ -191,13 +191,13 @@ p {
 		text-align: center;
 	}
 	.ad{
-		margin-bottom: 31px;
+		margin-bottom: 29px;
 		margin-top: 40px;
 		margin-right: 5px;
-		height: 100px;
+		height: 98px;
 		width: 27%;
 		float: right;
-		line-height: 110px;
+		line-height: 80px;
 		text-align: center;
 		position: relative;
 		z-index: 2;
@@ -284,6 +284,7 @@ p {
 		line-height: 23px;
 		background-color: #99ff33;
 		text-align: center;
+		margin-top: 10px;
 	}
 	.tools{
 		margin-right: 1%;
@@ -294,6 +295,7 @@ p {
 		line-height: 23px;
 		background-color: #99ff33;
 		text-align: center;
+		margin-top: 10px;
 	}
 	.hero{
 		width: 100%;
@@ -346,7 +348,7 @@ p {
 	.body1{
 		height: 48px;
 		margin: 2px;
-		width: 95%;
+		width: 100%;
 		line-height: 48px;
 		margin-bottom: 55px;
 		background-color: #99ff33;

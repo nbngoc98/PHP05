@@ -1,0 +1,29 @@
+.nav{
+	width: 800px;
+	height: 150px;
+	border: 2px solid ;
+}
+.nav1{
+	background-color: blue;
+	font-weight: bold;
+}
+ul li{
+	width: 150px;
+	margin-top: 5px;
+	list-style-type: none;
+	padding: 5px;
+	float: left;
+	margin-left: 4px;
+	background-color: blue;
+	text-align: center;
+	border: 2px solid red;
+	padding: 1px 1px 1px 1px;
+}
+ul li a{
+	color: white;
+	text-decoration: none;
+}
+ul li a.click{
+ 	color: yellow;
+
+}

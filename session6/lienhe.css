@@ -90,14 +90,14 @@ form{
 	margin-left: 80px;
 }
 .name, .email, .sdt{
-	width: 600px;
+	width: 85%;
 	padding: 1%;
 }
 .gtinh{
 	margin-left: 20px;
 }
 .text{
-	width: 600px;
+	width: 85%;
 	height:200px;
 }
 .gui{
@@ -113,7 +113,7 @@ form{
 	margin-right: 10%;
 }
 .banner img {
-	width: 260px;
+	width: 95%;
 	height: 110px;
 	margin-top: 5px;
 	margin-left: 10px;

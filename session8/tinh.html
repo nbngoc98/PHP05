@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tinh a và b</title>
+</head>
+<body>
+	<form action="#" name="tinh">
+		<p> Nhap a :<input type="number" id="number1" name="number1"></p>
+		<p> Nhap b :<input type="number" id="number2" name="number2"></p>
+		<p> Result input:<input type="text" id="resultinput" name="resultinput"></p>
+		<p>Result : <span id="result"></span></p>
+		<p><input type="button" name="sum" value="sum" onclick=
+			"sumAB(document.getElementById('number1').value, document.getElementById('number2').value)"></p>
+		<p><input type="button" name="sub" value="sub" onclick=
+			"subAB(document.getElementById('number1').value, document.getElementById('number2').value)"></p>
+		<p><input type="button" name="multi" value="multi" onclick=
+			"multiAB(document.getElementById('number1').value, document.getElementById('number2').value)"></p>
+		<p><input type="button" name="division" value="division" onclick=
+			"divisionAB(document.getElementById('number1').value, document.getElementById('number2').value)"></p>
+	</form>
+	<script type="text/javascript" src="js/tinh.js"></script>
+</body>
+</html>

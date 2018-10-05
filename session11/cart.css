@@ -1,0 +1,20 @@
+header h1{
+	float: left;
+	margin-left: 90px;
+}
+#car{
+	float: right;
+	width: 4%;
+	height: 40px;
+	margin-top: 20px;
+	margin-right: 100px;
+}
+header{
+	height: 80px;
+	margin-top: 10px;
+}
+#table-products{
+	width: 80%;
+	margin-left: 120px;
+	height: 200px;
+}

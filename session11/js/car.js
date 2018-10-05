@@ -52,6 +52,11 @@
         sessionStorage["shopping-cart-items"] = JSON.stringify(shoppingCartItems);
         $("#table-products > tbody").html("");
     });
+     $("#remove").click(function () {
+        shoppingCartItems = [];
+        sessionStorage["shopping-cart-items"] = JSON.stringify(shoppingCartItems);
+        $("#table-products > tbody").removeAttr("id");
+    });
 
 
     
@@ -82,9 +87,5 @@
             });
         }
     }
-    $(document).ready(function(){
-    $("#remove").click(function(){
-        $("tbody").removeAttr("");
-    });
-});
+  
        

@@ -1,0 +1,33 @@
+#sanpham{
+	width: 80%;
+	margin-left: 10px;
+	border: 2px solid #787D9B;
+	margin-left: 120px;
+}
+img{
+	width: 50px;
+	height: 60px;
+}
+h1{
+	float: left;
+	margin-left: 50px;
+}
+#car{
+	float: right;
+	width: 4%;
+	height: 40px;
+	margin-top: 20px;
+	margin-right: 100px;
+}
+header{
+	height: 80px;
+	margin-top: 10px;
+}
+.row{
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;	
+}
+input{
+	width: 50%;
+}

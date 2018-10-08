@@ -3,20 +3,24 @@
 <head>
 	<title>Register</title>
 </head>
-<body>
+<body id="nen" >
 	<form action="#" name="register" id="register">
 		<h4>Họ và tên:</h4>
-		<p><input type="text" name="name" id="name" value=""></p>
+		<p><input type="text" name="name" id="input1" value=""></p>
+		<p id="thongbao1" style="color: red"></p>
 		<h4>Năm sinh:</h4>
-		<p><input type="number" name="old" id="old" value=""></p>
+		<p><input type="number" name="old" id="input2" value=""></p>
+		<p id="thongbao2" style="color: red"></p>
 		<h4>Giới tính:</h4>
-		<p>
-			<input type="radio" name="gender" value="male" onclick="clickCounter()">Male
-			<input type="radio" name="gender" value="female">Female
+		<p id="gt">
+			<input type="radio" name="gender" value="Nam">Male
+			<input type="radio" name="gender" value="Nu">Female
 		</p>
+		<p id="thongbao4" style="color: red"></p>
 		<h4>Sở thích:</h4>
-		<p><textarea rows="file" cols="50"></textarea></p>
-		<button id="submit">Submit</button>.
+		<p><textarea rows="file" cols="50" id="input3"></textarea></p>
+		<p id="thongbao3" style="color: red"></p>
+		<input type="button" id="submit" value="Submit">
 	</form>
 	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="js/register.js"></script>
